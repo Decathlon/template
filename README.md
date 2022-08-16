@@ -5,4 +5,4 @@ It contains:
 - code-of-conduct.md 
 - contributing.md 
 - contributor-licence-agreement.md 
-- choose-a-license.md 
+- choosing-a-license.md 
